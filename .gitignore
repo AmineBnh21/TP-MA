@@ -1,0 +1,13 @@
+out/
+.idea/workspace.xml
+.idea/shelf/
+APDescription.txt
+MTPs-Main-Container.txt
+*.class
+
+# LaTeX
+rapport/*.aux
+rapport/*.log
+rapport/*.out
+rapport/*.toc
+rapport/*.synctex.gz
